@@ -5,7 +5,7 @@ IT General Controls (ITGC) Audit
    - Template for auditing user access, change management, and backups.
    
 Cloud Compliance Audit 
-   - Guide for auditing cloud environments for GDPR compliance.
+   - Guide for auditing cloud environments.
    
 Cybersecurity Framework Assessment**  
    - Case study for assessing compliance with NIST CSF.  
@@ -17,7 +17,8 @@ How to Use
 3. Use them to conduct audits, identify gaps, and provide actionable recommendations.  
 
  Ideal For  
-- IT auditors  
+- IT auditors
+- IT Risk Professionals.
 - Governance, Risk, and Compliance (GRC) professionals  
 - Cybersecurity consultants  
 - Anyone involved in IT risk assessments or audits  
